@@ -1,9 +1,9 @@
 {
-  "name": "ynatm",
-  "version": "0.2.1",
+  "name": "@eth-optimism/ynatm",
+  "version": "0.2.2",
   "description": "You Need A Transaction Manager (YNATM)",
   "main": "index.js",
-  "repository": "git@github.com:kendricktan/ynatm.git",
+  "repository": "git@github.com:ethereum-optimism/ynatm.git",
   "author": "Kendrick Tan <kendricktan0814@gmail.com>",
   "license": "MIT",
   "scripts": {
