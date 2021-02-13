@@ -1,7 +1,10 @@
 # You Need A Transaction Manager (YNATM)
 
-[![circleci](https://badgen.net/circleci/github/kendricktan/ynatm)](https://app.circleci.com/pipelines/github/kendricktan/ynatm)
-[![npm](https://badgen.net/npm/v/ynatm)](https://www.npmjs.com/package/ynatm)
+Thank you [kendricktan](https://github.com/kendricktan) for writing this
+library.
+
+[![circleci](https://badgen.net/circleci/github/ethereum-optimism/ynatm)](https://app.circleci.com/pipelines/github/ethereum-optimism/ynatm)
+[![npm](https://badgen.net/npm/v/ynatm)](https://www.npmjs.com/package/@eth-optimism/ynatm)
 
 **(For Ethereum)**
 
